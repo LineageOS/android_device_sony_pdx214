@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5a3e38b7_aab4c917",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2023-05-02T14:55:04Z",
+      "side": 1,
+      "message": "NFC of XQ-BQ42 (pdx214) works with this commit.",
+      "revId": "be740eacecdfbe7f4f11b6b301a577d0e421ab77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
