@@ -33,6 +33,24 @@
       "message": "Does it take effect? it seems to be sony\u0027s customization",
       "revId": "be740eacecdfbe7f4f11b6b301a577d0e421ab77",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d47ac281_5dac58c8",
+        "filename": "nfc/libnfc-nxp-typef.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 815,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2023-05-03T07:46:58Z",
+      "side": 1,
+      "message": "Removed sony\u0027s customization. Verified to work on XQ-BQ42 (pdx214).commit.",
+      "parentUuid": "f7c6c938_3582a69b",
+      "revId": "be740eacecdfbe7f4f11b6b301a577d0e421ab77",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
