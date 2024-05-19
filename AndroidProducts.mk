@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_pdx214.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_pdx214-user \
-    lineage_pdx214-userdebug \
-    lineage_pdx214-eng
